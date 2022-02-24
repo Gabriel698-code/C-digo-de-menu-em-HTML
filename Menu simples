@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+<head>
+
+    <meta charset="UTF-8">
+    <meta name ="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titulo da pagina</title>
+
+  
+</head>
+
+<body>
+
+    <header>
+<h2="logo">Titulo no Site<p class="logo2">Serviços Digitais</p></h2>
+
+<!--Logo menor do site-->
+
+
+<nav>
+
+<a href="#"class = "interacao1"> Opção 1</a>
+<a href="#"class = "interacao2">Opção 2 </a>
+<a href="#"class = "interacao3">Opção 3</a>
+<a href="#"class = "interacao4">Opção 4</a>
+
+<!--Menu Superior-->
+
+</nav>
+
+    </header>
+    
+    
+    <footer></footer>
+    
+    <---Rodapé se quiser--->
+    
+    
+    </body>
+    
+    </html>
